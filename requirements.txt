@@ -1,4 +1,3 @@
 telegram
 configparser
 firebase_admin
-io
