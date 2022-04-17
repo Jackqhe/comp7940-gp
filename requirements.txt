@@ -1,3 +1,4 @@
 telegram
+Python-telegram-bot>=13.1
 configparser
 firebase_admin
